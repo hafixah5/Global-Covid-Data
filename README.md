@@ -5,3 +5,5 @@ This project focuses on the death and infection data during the pandemic. Hence,
 
 A [dashboard](https://public.tableau.com/app/profile/nu4818/viz/CovidDeathDashboard_16479646825520/Dashboard1) of this project was made using Tableau. 
 Some of the explored data shown are a chart of Death Count by Continent and an interactive map of Percent Population Infected according to each Country.
+
+The Tableau viz folder contains the data used for Tableau visualization in xlsx format. It also contains a snapshot of the dashboard.
